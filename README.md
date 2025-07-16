@@ -12,7 +12,7 @@ Pré‑requisitos
 
 Instalação
 
-git clone https://github.com/Zefer1/desafio-db.git
+git clone https://github.com/Zefer1/desafio-db
 cd o repositório
 npm install
 
@@ -80,4 +80,4 @@ Importa a coleção `postman/DesafioDB.postman_collection.json`. Tem pastas para
 
 Cada request está configurado com body, headers e testes automáticos.
 
-Desenvolvido por **José Fernandes** | [GitHub](https://https://github.com/Zefer1)
+Desenvolvido por **José Fernandes** | https://https://github.com/Zefer1
