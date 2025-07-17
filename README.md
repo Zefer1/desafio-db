@@ -16,6 +16,11 @@ git clone https://github.com/Zefer1/desafio-db
 cd o repositório
 npm install
 
+ Diagrama de Entidade‑Relacionamento
+
+Ver em [`docs/er-diagram.md`](docs/er-diagram.md)
+
+
 Configuração de Ambiente
 
 Cria na raiz um ficheiro .env com:
